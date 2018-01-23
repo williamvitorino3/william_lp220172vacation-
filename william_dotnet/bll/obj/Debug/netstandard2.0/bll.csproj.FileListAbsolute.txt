@@ -1,0 +1,8 @@
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/bin/Debug/netstandard2.0/bll.deps.json
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/bin/Debug/netstandard2.0/bll.dll
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/bin/Debug/netstandard2.0/bll.pdb
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/obj/Debug/netstandard2.0/bll.csproj.CoreCompileInputs.cache
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/obj/Debug/netstandard2.0/bll.AssemblyInfoInputs.cache
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/obj/Debug/netstandard2.0/bll.AssemblyInfo.cs
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/obj/Debug/netstandard2.0/bll.dll
+/home/belshoff/IFCE/S5/LP2/william_lp220172vacation-/william_dotnet/bll/obj/Debug/netstandard2.0/bll.pdb

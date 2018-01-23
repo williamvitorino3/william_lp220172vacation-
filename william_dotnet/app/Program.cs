@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace app
 {
@@ -6,7 +7,8 @@ namespace app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<int> lista = new List<int>();
+            Dictionary<int, String> dict = new Dictionary<int, String>(); 
         }
     }
 }
