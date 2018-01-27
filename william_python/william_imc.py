@@ -1,5 +1,5 @@
 nome = input("Nome: ")
-imc = float(input("Peso(Kg): "))/(input("Altura(m): ")**2)
+imc = float(input("Peso(Kg): "))/(float(input("Altura(m): "))**2)
 
 if imc < 16:
     print("Magreza grave")
